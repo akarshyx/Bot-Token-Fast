@@ -84,3 +84,17 @@ uri = "file://attached_assets/coinflip/casino_coinflip_toss_white.webm"
 type = "video"
 title = "Clean Toss Coinflip — White WebM"
 description = "Transparent animated WebM with the white mascot as the landing result."
+
+[[outputs]]
+id = "HU19CmxjNxiL0m0IstHhi"
+uri = "file://attached_assets/coinflip/rollerscasino_coinflip_classical_fast_preview.mp4"
+type = "video"
+title = "Fast Toss Preview — Classical Mascot"
+description = "Fast vertical toss: up, quick airborne flip, landing, and a small finish zoom."
+
+[[outputs]]
+id = "TQbOc2N7cFLRbMxm1Mf4u"
+uri = "file://attached_assets/coinflip/rollerscasino_coinflip_white_fast_preview.mp4"
+type = "video"
+title = "Fast Toss Preview — White Mascot"
+description = "Fast vertical toss: up, quick airborne flip, landing, and a small finish zoom."
