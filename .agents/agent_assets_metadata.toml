@@ -1,0 +1,30 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "9ojJiAZze65Gg-ffojLK-"
+uri = "file://attached_assets/coinflip/casino_coinflip_option_1_classical.webm"
+type = "video"
+title = "Casino Coinflip — Option 1"
+description = "Telegram-ready 3-second animated coin emoji landing on the classical mascot face."
+
+[[outputs]]
+id = "dVa_stp37JQfNHJXNXo6c"
+uri = "file://attached_assets/coinflip/casino_coinflip_option_1_classical_preview.mp4"
+type = "video"
+title = "Casino Coinflip — Option 1 Preview"
+description = "Preview of the classical-mascot coinflip animation with the landing zoom."
+
+[[outputs]]
+id = "zfheD4TdQZyMeo-uzsLD1"
+uri = "file://attached_assets/coinflip/casino_coinflip_option_2_white.webm"
+type = "video"
+title = "Casino Coinflip — Option 2"
+description = "Telegram-ready 3-second animated coin emoji landing on the white mascot face."
+
+[[outputs]]
+id = "MCvo6m04hxxe-ss0gDerD"
+uri = "file://attached_assets/coinflip/casino_coinflip_option_2_white_preview.mp4"
+type = "video"
+title = "Casino Coinflip — Option 2 Preview"
+description = "Preview of the white-mascot coinflip animation with the landing zoom."
