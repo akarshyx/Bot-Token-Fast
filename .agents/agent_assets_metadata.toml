@@ -28,3 +28,31 @@ uri = "file://attached_assets/coinflip/casino_coinflip_option_2_white_preview.mp
 type = "video"
 title = "Casino Coinflip — Option 2 Preview"
 description = "Preview of the white-mascot coinflip animation with the landing zoom."
+
+[[outputs]]
+id = "o6RPdGtF3d63s3yPn5UBo"
+uri = "file://attached_assets/coinflip/casino_coinflip_option_1_classical_v2_preview.mp4"
+type = "video"
+title = "Corrected Coinflip — Classical Mascot"
+description = "Corrected preview using the full classical coin and the rebuilt reference-style flip timing."
+
+[[outputs]]
+id = "_5o2CKGikpv9ijXWms6LJ"
+uri = "file://attached_assets/coinflip/casino_coinflip_option_2_white_v2_preview.mp4"
+type = "video"
+title = "Corrected Coinflip — White Mascot"
+description = "Corrected preview using the full white mascot coin and the rebuilt reference-style flip timing."
+
+[[outputs]]
+id = "IUY_mpklpIBIcm-7wMF8S"
+uri = "file://attached_assets/coinflip/casino_coinflip_option_1_classical_v2.webm"
+type = "video"
+title = "Corrected Coinflip — Classical WebM"
+description = "Full 512px animated WebM for the classical mascot landing option."
+
+[[outputs]]
+id = "O64Fz5Yk79u1ILJrKFMz7"
+uri = "file://attached_assets/coinflip/casino_coinflip_option_2_white_v2.webm"
+type = "video"
+title = "Corrected Coinflip — White WebM"
+description = "Full 512px animated WebM for the white mascot landing option."
