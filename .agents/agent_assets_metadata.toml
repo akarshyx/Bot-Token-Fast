@@ -56,3 +56,31 @@ uri = "file://attached_assets/coinflip/casino_coinflip_option_2_white_v2.webm"
 type = "video"
 title = "Corrected Coinflip — White WebM"
 description = "Full 512px animated WebM for the white mascot landing option."
+
+[[outputs]]
+id = "oHKAHRszStX4g1w_QdZ6t"
+uri = "file://attached_assets/coinflip/casino_coinflip_toss_classical_preview.mp4"
+type = "video"
+title = "Clean Toss Coinflip — Classical Mascot"
+description = "Vertical toss preview: rises, flips while airborne, lands, then zooms slightly. Checkerboard removed from the coin."
+
+[[outputs]]
+id = "_RqJlHBtqYcs0zFPRn_6M"
+uri = "file://attached_assets/coinflip/casino_coinflip_toss_white_preview.mp4"
+type = "video"
+title = "Clean Toss Coinflip — White Mascot"
+description = "Vertical toss preview: rises, flips while airborne, lands, then zooms slightly. Checkerboard removed from the coin."
+
+[[outputs]]
+id = "y9BfUL1nTrEsyPoLVXh9r"
+uri = "file://attached_assets/coinflip/casino_coinflip_toss_classical.webm"
+type = "video"
+title = "Clean Toss Coinflip — Classical WebM"
+description = "Transparent animated WebM with the classical mascot as the landing result."
+
+[[outputs]]
+id = "Up6agOyUw87sKxWyKQBDp"
+uri = "file://attached_assets/coinflip/casino_coinflip_toss_white.webm"
+type = "video"
+title = "Clean Toss Coinflip — White WebM"
+description = "Transparent animated WebM with the white mascot as the landing result."
